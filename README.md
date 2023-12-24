@@ -1,13 +1,16 @@
 # Software Engineer.
 
-instalacion de dependencias
+## Instalacion de dependencias
+
 ``` npm install ```
 
 ## Ejecutar la API
-Para iniciar la API, ejecuta el siguiente comando en tu terminal:
+Para iniciar la API, ejecuta el siguiente comando en tu terminal
+
 ``` node main.js ```
 
 ## Ejecutar Test
+
 ``` npm test ```
 
 
