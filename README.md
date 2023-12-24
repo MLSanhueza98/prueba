@@ -1,18 +1,14 @@
 # Software Engineer.
 
 instalacion de dependencias
-```bash
-npm install
-```
+``` npm install ```
+
 ## Ejecutar la API
 Para iniciar la API, ejecuta el siguiente comando en tu terminal:
-```bash
-node main.js
-```
+``` node main.js ```
+
 ## Ejecutar Test
-```bash
-npm test
-```
+``` npm test ```
 
 
 ## Endpoints de la API
