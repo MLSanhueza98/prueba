@@ -4,7 +4,7 @@ instalacion de dependencias
 ```bash
 npm install
 
-# Ejecutar la API
+## Ejecutar la API
 Para iniciar la API, ejecuta el siguiente comando en tu terminal:
 ```bash
 node main.js
@@ -15,7 +15,7 @@ npm test
 
 
 
-# Endpoints de la API
+## Endpoints de la API
 
 | Método | URL                               | Descripción                           |
 |--------|-----------------------------------|---------------------------------------|
